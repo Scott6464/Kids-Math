@@ -3,11 +3,17 @@ Android App for Counting, Addition and Subtraction.
 
 
 Database:	Child progress scores
+
 Preferences:	Easy, medium or hard. Counting, addition or subtraction. Sound off or on.
+
 Animation:	Confetti when correct?
+
 Graphics:	Objects to count, add and subtract.
+
 Styles
+
 Threading
+
 Multimedia ( audio, video, or camera):	Play "hurray" sound when correct.
 
 
