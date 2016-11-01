@@ -2,7 +2,7 @@
 Android App for Counting, Addition and Subtraction.
 --------------------------------------------------
 
-Database:	Child progress scores
+Database:	Child progress scores.
 
 Preferences:	Easy, medium or hard. Counting, addition or subtraction. Sound off or on.
 
@@ -25,7 +25,9 @@ Main View
 Choose:
 
 Count 1,2,3
+
 Add     1+2=3
+
 Subtract 3-2=1
 
 -------------------
